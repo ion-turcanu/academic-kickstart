@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Ion Turcanu</title>
+    <link>//localhost:1313/publication_types/2/</link>
+      <atom:link href="//localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>2</title>
+      <link>//localhost:1313/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneous cellular and DSRC networking for Floating Car Data collection in urban areas</title>
+      <link>//localhost:1313/publication/salvo2017heterogeneous/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/salvo2017heterogeneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated VANET-based data dissemination and collection protocol for complex urban scenarios</title>
+      <link>//localhost:1313/publication/turcanu2016integrated/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2016integrated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

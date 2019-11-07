@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An integrated VANET-based data dissemination and collection protocol for complex urban scenarios"
-authors: [Ion Turcanu, Pierpaolo Salvo, Andrea Baiocchi, and Francesca Cuomo]
+authors: [Ion Turcanu, Pierpaolo Salvo, Andrea Baiocchi, Francesca Cuomo]
 date: 2016-12-01
 doi: "10.1016/j.adhoc.2016.07.008"
 

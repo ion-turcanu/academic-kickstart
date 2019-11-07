@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ion Turcanu</title>
+    <link>//localhost:1313/authors/</link>
+      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>//localhost:1313/authors/</link>
+    </image>
+    
+    <item>
+      <title>and Izhak Rubin</title>
+      <link>//localhost:1313/authors/and-izhak-rubin/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/and-izhak-rubin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Baiocchi</title>
+      <link>//localhost:1313/authors/andrea-baiocchi/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/andrea-baiocchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Cuomo</title>
+      <link>//localhost:1313/authors/francesca-cuomo/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/francesca-cuomo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Turcanu</title>
+      <link>//localhost:1313/authors/ion-turcanu/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/ion-turcanu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierpaolo Salvo</title>
+      <link>//localhost:1313/authors/pierpaolo-salvo/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/pierpaolo-salvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Francesca Cuomo</title>
+      <link>//localhost:1313/authors/and-francesca-cuomo/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/and-francesca-cuomo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Ion Turcanu is a postdoctoral researcher at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg. Previously, he graduated from University of Rome Sapienza with a PhD in Information and Communications Technologies (ICT) in 2018, from where he also received his BSc and MSc in Engineering in Computer Science.&lt;/p&gt;
+
+&lt;p&gt;His research interests include multi-technology vehicular networks, in-car communications, and intelligent transportation systems. He is part of the SECAN-Lab, which conducts internationally competitive fundamental and applied research in computer networking, privacy, and security.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

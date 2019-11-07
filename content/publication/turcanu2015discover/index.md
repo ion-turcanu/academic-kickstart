@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "DISCOVER: A Unified Protocol for Data Dissemination and Collection in VANETs"
-authors: [Ion Turcanu, Pierpaolo Salvo, Andrea Baiocchi, and Francesca Cuomo]
+authors: [Ion Turcanu, Pierpaolo Salvo, Andrea Baiocchi, Francesca Cuomo]
 date: 2015-11-02
 doi: "10.1145/2810379.2810388"
 
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 12th ACM Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, & Ubiquitous Networks (PE-WASUN '15)"
-publication_short: "PE-WASUN '15"
+publication_short: "ACM PE-WASUN"
 
 abstract: "Message dissemination and data collection from vehicles are two key enablers of Intelligent Transportation System services that can be offered by a Vehicular Ad-Hoc Network (VANET) technology. In this work we propose a fully distributed protocol for dissemination of query and collection of reply messages carrying information gathered from vehicles moving in a given target area, in an urban scenario. The key idea is to use the dissemination phase (forward wave) to create a network of relay nodes that are in charge of delivering reply messages back to the originating point (reverse wave). The proposed protocol is evaluated with reference to two real urban environments. Main parameters are dimensioned and an insight in the protocol working is given."
 
