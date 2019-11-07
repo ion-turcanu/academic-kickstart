@@ -18,7 +18,7 @@ organizations:
   url: "https://wwwen.uni.lu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multi-technology vehicular networks, in-car communications, and intelligent transportation systems.
 
 interests:
 - Vehicular Networks
@@ -73,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Ion Turcanu is a postdoctoral researcher of information and communications technology (ICT) at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg. His research interests include multi-technology vehicular networks, in-car communications, and intelligent transportation systems. He is part of the SECAN-Lab, which conducts internationally competitive fundamental and applied research in computer networking, privacy, and security.
+Ion Turcanu is a postdoctoral researcher at the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg. Previously, he graduated from University of Rome Sapienza with a PhD in Information and Communications Technologies (ICT) in 2018, from where he also received his BSc and MSc in Engineering in Computer Science.
+
+His research interests include multi-technology vehicular networks, in-car communications, and intelligent transportation systems. He is part of the SECAN-Lab, which conducts internationally competitive fundamental and applied research in computer networking, privacy, and security.
