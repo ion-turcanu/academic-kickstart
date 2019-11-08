@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/</link>
       <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,106 @@
     </image>
     
     <item>
-      <title>and Izhak Rubin</title>
-      <link>//localhost:1313/authors/and-izhak-rubin/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/and-izhak-rubin/</guid>
+      <title>Christoph Sommer</title>
+      <link>//localhost:1313/authors/christoph-sommer/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/christoph-sommer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Turcanu</title>
+      <link>//localhost:1313/authors/ion-turcanu/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/ion-turcanu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Engel</title>
+      <link>//localhost:1313/authors/thomas-engel/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/thomas-engel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Adamsky</title>
+      <link>//localhost:1313/authors/florian-adamsky/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/florian-adamsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrea Baiocchi</title>
       <link>//localhost:1313/authors/andrea-baiocchi/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/andrea-baiocchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Izhak Rubin</title>
+      <link>//localhost:1313/authors/izhak-rubin/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/izhak-rubin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulia Sunyoto</title>
+      <link>//localhost:1313/authors/yulia-sunyoto/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/yulia-sunyoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detlef Führer</title>
+      <link>//localhost:1313/authors/detlef-fuhrer/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/detlef-fuhrer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridha Soua</title>
+      <link>//localhost:1313/authors/ridha-soua/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/ridha-soua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Köbel</title>
+      <link>//localhost:1313/authors/christian-kobel/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/christian-kobel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teng Andrea Xu</title>
+      <link>//localhost:1313/authors/teng-andrea-xu/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/teng-andrea-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Falko Dressler</title>
+      <link>//localhost:1313/authors/falko-dressler/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/falko-dressler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Klingler</title>
+      <link>//localhost:1313/authors/florian-klingler/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/florian-klingler/</guid>
       <description></description>
     </item>
     
@@ -37,14 +125,6 @@
     </item>
     
     <item>
-      <title>Ion Turcanu</title>
-      <link>//localhost:1313/authors/ion-turcanu/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/ion-turcanu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pierpaolo Salvo</title>
       <link>//localhost:1313/authors/pierpaolo-salvo/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
@@ -53,10 +133,18 @@
     </item>
     
     <item>
-      <title>and Francesca Cuomo</title>
-      <link>//localhost:1313/authors/and-francesca-cuomo/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/and-francesca-cuomo/</guid>
+      <title>Mario De Felice</title>
+      <link>//localhost:1313/authors/mario-de-felice/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/mario-de-felice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Zennaro</title>
+      <link>//localhost:1313/authors/stefano-zennaro/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/stefano-zennaro/</guid>
       <description></description>
     </item>
     

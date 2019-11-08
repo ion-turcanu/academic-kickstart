@@ -5,12 +5,44 @@
     <link>//localhost:1313/authors/andrea-baiocchi/</link>
       <atom:link href="//localhost:1313/authors/andrea-baiocchi/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Baiocchi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Andrea Baiocchi</title>
       <link>//localhost:1313/authors/andrea-baiocchi/</link>
     </image>
+    
+    <item>
+      <title>Traffic management and networking for autonomous vehicular highway systems</title>
+      <link>//localhost:1313/publication/rubin2019traffic/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rubin2019traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of an Open-Source Audio-Video Bridging/Time-Sensitive Networking Testbed for Automotive Ethernet</title>
+      <link>//localhost:1313/publication/xu2018performance/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/xu2018performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duplicate suppression for efficient floating car data collection in heterogeneous LTE-DSRC vehicular networks</title>
+      <link>//localhost:1313/publication/turcanu2018duplicate/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2018duplicate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model for the Optimization of Beacon Message Age-of-Information in a VANET</title>
+      <link>//localhost:1313/publication/baiocchi2017model/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/baiocchi2017model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous cellular and DSRC networking for Floating Car Data collection in urban areas</title>
@@ -21,10 +53,26 @@
     </item>
     
     <item>
+      <title>Pick the right guy: CQI-based LTE forwarder selection in VANETs</title>
+      <link>//localhost:1313/publication/turcanu2016pick/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2016pick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An integrated VANET-based data dissemination and collection protocol for complex urban scenarios</title>
       <link>//localhost:1313/publication/turcanu2016integrated/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/turcanu2016integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic monitoring and incident detection using cellular and early stage VANET technology deployment</title>
+      <link>//localhost:1313/publication/defelice2016traffic/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/defelice2016traffic/</guid>
       <description></description>
     </item>
     

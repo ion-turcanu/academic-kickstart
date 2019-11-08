@@ -14,6 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: SECAN-Lab
+  url: "https://secan-lab.uni.lu/"
 - name: University of Luxembourg
   url: "https://wwwen.uni.lu/"
 

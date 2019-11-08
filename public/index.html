@@ -144,6 +144,32 @@
 
   
 
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "hsl(339, 90%, 68%)",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "hsl(339, 90%, 68%)"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
 
   
 
@@ -207,7 +233,7 @@
 
       
       
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         
 
         
@@ -327,9 +353,6 @@
         
 
       
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
 
         
 
@@ -439,6 +462,12 @@
         <h2>Ion Turcanu</h2>
         <h3>Postdoctoral Researcher</h3>
 
+        
+        <h3>
+          <a href="https://secan-lab.uni.lu/" target="_blank" rel="noopener">
+          <span>SECAN-Lab</span>
+          </a>
+        </h3>
         
         <h3>
           <a href="https://wwwen.uni.lu/" target="_blank" rel="noopener">
@@ -762,7 +791,22 @@
 
     
 
-    <div class=" row js-layout-row ">
+      
+
+      
+      
+      
+      
+        
+      
+
+      <span class="d-none default-project-filter">*</span>
+
+      
+      
+    
+
+    <div class="isotope projects-container row js-layout-row ">
       
 
         
@@ -1371,11 +1415,12 @@
   </div>
   <div class="col-12 col-lg-8">
 
-    <div class="alert alert-note">
+    <!---<div class="alert alert-note">
   <div>
     Quickly discover relevant content by <a href="//localhost:1313/publication/" target="_blank">filtering publications</a>.
   </div>
 </div>
+--->
 
 
     
@@ -1901,6 +1946,9 @@
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -1910,6 +1958,8 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
@@ -1921,6 +1971,8 @@
       
 
       
+      
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 

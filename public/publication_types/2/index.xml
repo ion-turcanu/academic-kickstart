@@ -5,12 +5,28 @@
     <link>//localhost:1313/publication_types/2/</link>
       <atom:link href="//localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>2</title>
       <link>//localhost:1313/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Traffic management and networking for autonomous vehicular highway systems</title>
+      <link>//localhost:1313/publication/rubin2019traffic/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rubin2019traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duplicate suppression for efficient floating car data collection in heterogeneous LTE-DSRC vehicular networks</title>
+      <link>//localhost:1313/publication/turcanu2018duplicate/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2018duplicate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous cellular and DSRC networking for Floating Car Data collection in urban areas</title>

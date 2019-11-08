@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florian Adamsky | Ion Turcanu</title>
+    <link>//localhost:1313/authors/florian-adamsky/</link>
+      <atom:link href="//localhost:1313/authors/florian-adamsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Adamsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Florian Adamsky</title>
+      <link>//localhost:1313/authors/florian-adamsky/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Evaluation of Floating Car Data Collection Protocols in Vehicular Networks</title>
+      <link>//localhost:1313/publication/turcanu2019experimental/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2019experimental/</guid>
+      <description>&lt;p&gt;(to appear)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Access Edge Computing for Vehicular Networks: A Position Paper</title>
+      <link>//localhost:1313/publication/soua2018multi/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/soua2018multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of an Open-Source Audio-Video Bridging/Time-Sensitive Networking Testbed for Automotive Ethernet</title>
+      <link>//localhost:1313/publication/xu2018performance/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/xu2018performance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

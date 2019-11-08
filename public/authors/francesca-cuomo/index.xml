@@ -21,10 +21,34 @@
     </item>
     
     <item>
+      <title>An integrated VANET-based data dissemination and collection protocol for complex urban scenarios</title>
+      <link>//localhost:1313/publication/turcanu2016integrated/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2016integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic monitoring and incident detection using cellular and early stage VANET technology deployment</title>
+      <link>//localhost:1313/publication/defelice2016traffic/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/defelice2016traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LTE floating car data application off-loading via VANET driven clustering formation</title>
       <link>//localhost:1313/publication/salvo2016lte/</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/salvo2016lte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DISCOVER: A Unified Protocol for Data Dissemination and Collection in VANETs</title>
+      <link>//localhost:1313/publication/turcanu2015discover/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/turcanu2015discover/</guid>
       <description></description>
     </item>
     
