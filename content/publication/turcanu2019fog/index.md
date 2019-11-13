@@ -16,7 +16,7 @@ publishDate: 2019-11-07T17:44:37+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "10th IEEE Vehicular Networking Conference (VNC 2019)"
+publication: "11th IEEE Vehicular Networking Conference (VNC 2019)"
 publication_short: "IEEE VNC"
 
 abstract: "Content downloading of mobile broadband users today routinely causes network load to exceed what the Radio Access Network (RAN) can sustain without degrading user experience. Many works are therefore considering edge or fog computing paradigms and Device to Device (D2D) communication using 4G/5G C-V2X or IEEE 802.11p/bd links to obtain content. When content originates (or is maintained) at a central location, however, this requires expensive seeding of the content into the mobile network. We thus advocate basing the decision of when and where to perform fog seeding on a network graph that respects connectivity metrics while performing community detection and exploiting node centrality. We present different seeding strategies and investigate their respective benefits compared to traditional information-centric networking. Using simulations, we demonstrate that choosing a suitable strategy can yield substantial benefits - and vice versa."
