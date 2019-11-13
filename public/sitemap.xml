@@ -3,243 +3,243 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/publication_types/1/</loc>
+    <loc>http://localhost:1313/publication_types/1/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/christoph-sommer/</loc>
+    <loc>http://localhost:1313/authors/christoph-sommer/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2019fog/</loc>
+    <loc>http://localhost:1313/publication/turcanu2019fog/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/authors/ion-turcanu/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/ion-turcanu/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/thomas-engel/</loc>
+    <loc>http://localhost:1313/authors/thomas-engel/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2019experimental/</loc>
+    <loc>http://localhost:1313/publication/turcanu2019experimental/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/florian-adamsky/</loc>
+    <loc>http://localhost:1313/authors/florian-adamsky/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/2/</loc>
+    <loc>http://localhost:1313/publication_types/2/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/andrea-baiocchi/</loc>
+    <loc>http://localhost:1313/authors/andrea-baiocchi/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/izhak-rubin/</loc>
+    <loc>http://localhost:1313/authors/izhak-rubin/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/rubin2019traffic/</loc>
+    <loc>http://localhost:1313/publication/rubin2019traffic/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/yulia-sunyoto/</loc>
+    <loc>http://localhost:1313/authors/yulia-sunyoto/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/detlef-fuhrer/</loc>
+    <loc>http://localhost:1313/authors/detlef-fuhrer/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/soua2018multi/</loc>
+    <loc>http://localhost:1313/publication/soua2018multi/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/ridha-soua/</loc>
+    <loc>http://localhost:1313/authors/ridha-soua/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/christian-kobel/</loc>
+    <loc>http://localhost:1313/authors/christian-kobel/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/xu2018performance/</loc>
+    <loc>http://localhost:1313/publication/xu2018performance/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/teng-andrea-xu/</loc>
+    <loc>http://localhost:1313/authors/teng-andrea-xu/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/project/5g-mobix/</loc>
+    <loc>http://localhost:1313/project/5g-mobix/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2018duplicate/</loc>
+    <loc>http://localhost:1313/publication/turcanu2018duplicate/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/falko-dressler/</loc>
+    <loc>http://localhost:1313/authors/falko-dressler/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/florian-klingler/</loc>
+    <loc>http://localhost:1313/authors/florian-klingler/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/project/hige/</loc>
+    <loc>http://localhost:1313/project/hige/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/project/fcd4its/</loc>
+    <loc>http://localhost:1313/project/fcd4its/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/7/</loc>
+    <loc>http://localhost:1313/publication_types/7/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2018integrated/</loc>
+    <loc>http://localhost:1313/publication/turcanu2018integrated/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/baiocchi2017model/</loc>
+    <loc>http://localhost:1313/publication/baiocchi2017model/</loc>
     <lastmod>2017-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/francesca-cuomo/</loc>
+    <loc>http://localhost:1313/authors/francesca-cuomo/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/salvo2017heterogeneous/</loc>
+    <loc>http://localhost:1313/publication/salvo2017heterogeneous/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/pierpaolo-salvo/</loc>
+    <loc>http://localhost:1313/authors/pierpaolo-salvo/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2016pick/</loc>
+    <loc>http://localhost:1313/publication/turcanu2016pick/</loc>
     <lastmod>2016-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2016integrated/</loc>
+    <loc>http://localhost:1313/publication/turcanu2016integrated/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/mario-de-felice/</loc>
+    <loc>http://localhost:1313/authors/mario-de-felice/</loc>
     <lastmod>2016-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/stefano-zennaro/</loc>
+    <loc>http://localhost:1313/authors/stefano-zennaro/</loc>
     <lastmod>2016-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/defelice2016traffic/</loc>
+    <loc>http://localhost:1313/publication/defelice2016traffic/</loc>
     <lastmod>2016-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/project/contact/</loc>
+    <loc>http://localhost:1313/project/contact/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/salvo2016lte/</loc>
+    <loc>http://localhost:1313/publication/salvo2016lte/</loc>
     <lastmod>2016-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/turcanu2015discover/</loc>
+    <loc>http://localhost:1313/publication/turcanu2015discover/</loc>
     <lastmod>2015-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/project/finterop/</loc>
+    <loc>http://localhost:1313/project/finterop/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/admin/</loc>
+    <loc>http://localhost:1313/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
   
 </urlset>

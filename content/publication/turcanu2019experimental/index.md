@@ -4,7 +4,7 @@
 title: "Experimental Evaluation of Floating Car Data Collection Protocols in Vehicular Networks"
 authors: [Ion Turcanu, Florian Adamsky, Thomas Engel]
 date: 2019-09-22
-doi: ""
+doi: "10.1109/VTCFall.2019.8891115"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-11-07T17:18:47+01:00

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Izhak Rubin | Ion Turcanu</title>
-    <link>//localhost:1313/authors/izhak-rubin/</link>
-      <atom:link href="//localhost:1313/authors/izhak-rubin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/izhak-rubin/</link>
+      <atom:link href="http://localhost:1313/authors/izhak-rubin/index.xml" rel="self" type="application/rss+xml" />
     <description>Izhak Rubin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Izhak Rubin</title>
-      <link>//localhost:1313/authors/izhak-rubin/</link>
+      <link>http://localhost:1313/authors/izhak-rubin/</link>
     </image>
     
     <item>
       <title>Traffic management and networking for autonomous vehicular highway systems</title>
-      <link>//localhost:1313/publication/rubin2019traffic/</link>
+      <link>http://localhost:1313/publication/rubin2019traffic/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/rubin2019traffic/</guid>
+      <guid>http://localhost:1313/publication/rubin2019traffic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous cellular and DSRC networking for Floating Car Data collection in urban areas</title>
-      <link>//localhost:1313/publication/salvo2017heterogeneous/</link>
+      <link>http://localhost:1313/publication/salvo2017heterogeneous/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/salvo2017heterogeneous/</guid>
+      <guid>http://localhost:1313/publication/salvo2017heterogeneous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE floating car data application off-loading via VANET driven clustering formation</title>
-      <link>//localhost:1313/publication/salvo2016lte/</link>
+      <link>http://localhost:1313/publication/salvo2016lte/</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/salvo2016lte/</guid>
+      <guid>http://localhost:1313/publication/salvo2016lte/</guid>
       <description></description>
     </item>
     

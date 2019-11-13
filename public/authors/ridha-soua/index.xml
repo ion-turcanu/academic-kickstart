@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ridha Soua | Ion Turcanu</title>
-    <link>//localhost:1313/authors/ridha-soua/</link>
-      <atom:link href="//localhost:1313/authors/ridha-soua/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/ridha-soua/</link>
+      <atom:link href="http://localhost:1313/authors/ridha-soua/index.xml" rel="self" type="application/rss+xml" />
     <description>Ridha Soua</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Ridha Soua</title>
-      <link>//localhost:1313/authors/ridha-soua/</link>
+      <link>http://localhost:1313/authors/ridha-soua/</link>
     </image>
     
     <item>
       <title>Multi-Access Edge Computing for Vehicular Networks: A Position Paper</title>
-      <link>//localhost:1313/publication/soua2018multi/</link>
+      <link>http://localhost:1313/publication/soua2018multi/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/soua2018multi/</guid>
+      <guid>http://localhost:1313/publication/soua2018multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Evaluation of an Open-Source Audio-Video Bridging/Time-Sensitive Networking Testbed for Automotive Ethernet</title>
-      <link>//localhost:1313/publication/xu2018performance/</link>
+      <link>http://localhost:1313/publication/xu2018performance/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/xu2018performance/</guid>
+      <guid>http://localhost:1313/publication/xu2018performance/</guid>
       <description></description>
     </item>
     

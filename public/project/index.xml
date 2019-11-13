@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ion Turcanu</title>
-    <link>//localhost:1313/project/</link>
-      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Projects</title>
-      <link>//localhost:1313/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>5G-MOBIX</title>
-      <link>//localhost:1313/project/5g-mobix/</link>
+      <link>http://localhost:1313/project/5g-mobix/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/5g-mobix/</guid>
+      <guid>http://localhost:1313/project/5g-mobix/</guid>
       <description>&lt;p&gt;5G-MOBIX will develop and test automated vehicle functionalities using 5G core technological innovations along multiple cross-border corridors and urban trial sites, under conditions of vehicular traffic, network coverage, service demand, as well as considering the inherently distinct legal, business and social local aspects.&lt;/p&gt;
 
 &lt;p&gt;The project will evaluate benefits in the CCAM context as well as define deployment scenarios and identify and respond to standardisation and spectrum gaps.&lt;/p&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>Honda Initiation Grant Europe (HIGE)</title>
-      <link>//localhost:1313/project/hige/</link>
+      <link>http://localhost:1313/project/hige/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/hige/</guid>
+      <guid>http://localhost:1313/project/hige/</guid>
       <description>&lt;p&gt;Nowadays, cars are becoming increasingly dependent on embedded computers, sensors, cameras, Light Imaging, Detection, And Ranging (LIDAR), etc. to enable safe and comfortable journeys for drivers and passengers. Moreover, self-driving cars will hit our roads in the coming years, which will require an increasing number of advanced sensors and high resolution camera systems.&lt;/p&gt;
 
 &lt;p&gt;To integrate these features into cars and to ensure the delivery of bandwidth-hungry and delay-sensitive traffic, it is a necessity to have reliable, deterministic and bandwidth-guarantee communication protocols. Current communication technologies adopted by car manufacturers include Controller Area Network (CAN), Local Interconnect Network (LIN), Media Oriented Serial Transport (MOST), and FlexRay. The main limitation of these technologies is that, at the time of their conception, they were not tailored with the sharp rise of high-bandwidth applications.&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Floating Car Data Collection for Intelligent Transportation Systems (FCD4ITS)</title>
-      <link>//localhost:1313/project/fcd4its/</link>
+      <link>http://localhost:1313/project/fcd4its/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/fcd4its/</guid>
+      <guid>http://localhost:1313/project/fcd4its/</guid>
       <description>&lt;p&gt;The FCD4ITS (Floating Car Data Collection for Intelligent Transportation Systems) project will deploy and execute a set of experiments using the RAWFIE vehicular testbeds to evaluate the performance of our own (and other state-of-the-art) Floating Car Data collection algorithms, in order to understand their properties in real-world settings.&lt;/p&gt;
 
 &lt;p&gt;We will deploy automated large-scale real-world procedures using Unmanned Ground Vehicles (UGVs) provided by the RAWFIE testbeds to evaluate the performance and applicability of our novel algorithms and compare them to the state of the art. RAWFIE testbeds will allow validation of the solutions in real-world settings, building on our existing simulation-based evaluations. We will also give feedback to RAWFIE on facilitating the automated execution of such experiments. Our work will help the research community to understand the limitations of simulations in targeted scenarios and adapt them to better reflect the real world. Our solid experience in fundamental and applied vehicular research will allow us to successfully complete these tasks.&lt;/p&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>CONTACT</title>
-      <link>//localhost:1313/project/contact/</link>
+      <link>http://localhost:1313/project/contact/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/contact/</guid>
+      <guid>http://localhost:1313/project/contact/</guid>
       <description>&lt;p&gt;Vehicular Ad hoc Networks (VANETs) have been receiving a lot of interest from academia, automotive industry, and government, as they hold the potential to enable a wide range of applications and services, improving both safety and comfort on the road.&lt;/p&gt;
 
 &lt;p&gt;One of the main drivers of vehicular communications is the support for safety applications (e.g. accident, traffic jam notifications), which together with the more recent autonomous and coordinated driving applications require low end-to-end delay and no packet loss. These applications will share the vehicular network resources with services with very different QoS requirements, such as infotainment services (e.g. live video streams, tourist information).&lt;/p&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>F-Interop</title>
-      <link>//localhost:1313/project/finterop/</link>
+      <link>http://localhost:1313/project/finterop/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/finterop/</guid>
+      <guid>http://localhost:1313/project/finterop/</guid>
       <description>&lt;p&gt;F-Interop will develop and provide remotely accessible tools to support and accelerate standardization processes and products developments, by offsetting several cost and time barriers. It will research and develop a new FIRE experimental platform to support the development of new technologies and standards, from their genesis to the market for: online interoperability tests and validation tools, remote compliance and conformance tests, scalability tests, Quality of Service (QoS) tests, SDN/NFV interoperability tools, Online privacy test tools, energy efficiency tools.&lt;/p&gt;
 
 &lt;p&gt;F-Interop gathers standardization partners together with 3 FIRE federations (Fed4FIRE, IoT Lab, OneLab) to build a common experimental platform as a service. Following an end-user driven methodology, it will directly address the needs of 3 emerging standards: oneM2M led by ETSI, 6TiSCH (IETF) chaired by our Inria partner, Web of Things WG (start Feb 2015) led by W3C, our advisory board member. The open call will extend the platform to other standardization activities, as well as to additional tools extensions and SME products validations. F-Interop will: - Provide online interoperability tools enabling research and development teams to test their products development and implementations at any time, without having to wait until the next face-to-face interop meeting. - Provide an online platform for standards compliance and labelling to be used by the IPv6 Forum Ready Logo Program and other similar labelling bodies, including ETSI, IETF and W3C. - Enable SME to accelerate interoperability and the development of their products and services. - Extend FIRE testbeds and bring them closer to the market. To achieve this ambitious objective, F.-Interop gathers a formidable combination of leading industry experts form standardization bodies, research centres, FIRE testbeds and SMEs from Europe and Japan. The F-Interop Ecosystem will enable sustainable impact, commercial uptake and synergies at EU level.&lt;/p&gt;

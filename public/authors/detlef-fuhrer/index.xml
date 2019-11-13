@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Detlef Führer | Ion Turcanu</title>
-    <link>//localhost:1313/authors/detlef-fuhrer/</link>
-      <atom:link href="//localhost:1313/authors/detlef-fuhrer/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/detlef-fuhrer/</link>
+      <atom:link href="http://localhost:1313/authors/detlef-fuhrer/index.xml" rel="self" type="application/rss+xml" />
     <description>Detlef Führer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Detlef Führer</title>
-      <link>//localhost:1313/authors/detlef-fuhrer/</link>
+      <link>http://localhost:1313/authors/detlef-fuhrer/</link>
     </image>
     
     <item>
       <title>Multi-Access Edge Computing for Vehicular Networks: A Position Paper</title>
-      <link>//localhost:1313/publication/soua2018multi/</link>
+      <link>http://localhost:1313/publication/soua2018multi/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/soua2018multi/</guid>
+      <guid>http://localhost:1313/publication/soua2018multi/</guid>
       <description></description>
     </item>
     

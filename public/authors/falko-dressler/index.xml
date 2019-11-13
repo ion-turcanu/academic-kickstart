@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Falko Dressler | Ion Turcanu</title>
-    <link>//localhost:1313/authors/falko-dressler/</link>
-      <atom:link href="//localhost:1313/authors/falko-dressler/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/falko-dressler/</link>
+      <atom:link href="http://localhost:1313/authors/falko-dressler/index.xml" rel="self" type="application/rss+xml" />
     <description>Falko Dressler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Falko Dressler</title>
-      <link>//localhost:1313/authors/falko-dressler/</link>
+      <link>http://localhost:1313/authors/falko-dressler/</link>
     </image>
     
     <item>
       <title>Duplicate suppression for efficient floating car data collection in heterogeneous LTE-DSRC vehicular networks</title>
-      <link>//localhost:1313/publication/turcanu2018duplicate/</link>
+      <link>http://localhost:1313/publication/turcanu2018duplicate/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2018duplicate/</guid>
+      <guid>http://localhost:1313/publication/turcanu2018duplicate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pick the right guy: CQI-based LTE forwarder selection in VANETs</title>
-      <link>//localhost:1313/publication/turcanu2016pick/</link>
+      <link>http://localhost:1313/publication/turcanu2016pick/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2016pick/</guid>
+      <guid>http://localhost:1313/publication/turcanu2016pick/</guid>
       <description></description>
     </item>
     

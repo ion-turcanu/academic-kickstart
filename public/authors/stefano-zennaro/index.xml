@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefano Zennaro | Ion Turcanu</title>
-    <link>//localhost:1313/authors/stefano-zennaro/</link>
-      <atom:link href="//localhost:1313/authors/stefano-zennaro/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/stefano-zennaro/</link>
+      <atom:link href="http://localhost:1313/authors/stefano-zennaro/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefano Zennaro</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Stefano Zennaro</title>
-      <link>//localhost:1313/authors/stefano-zennaro/</link>
+      <link>http://localhost:1313/authors/stefano-zennaro/</link>
     </image>
     
     <item>
       <title>Traffic monitoring and incident detection using cellular and early stage VANET technology deployment</title>
-      <link>//localhost:1313/publication/defelice2016traffic/</link>
+      <link>http://localhost:1313/publication/defelice2016traffic/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/defelice2016traffic/</guid>
+      <guid>http://localhost:1313/publication/defelice2016traffic/</guid>
       <description></description>
     </item>
     

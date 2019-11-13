@@ -2,127 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ion Turcanu</title>
-    <link>//localhost:1313/authors/ion-turcanu/</link>
-      <atom:link href="//localhost:1313/authors/ion-turcanu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/ion-turcanu/</link>
+      <atom:link href="http://localhost:1313/authors/ion-turcanu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ion Turcanu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Ion Turcanu</title>
-      <link>//localhost:1313/authors/ion-turcanu/</link>
+      <link>http://localhost:1313/authors/ion-turcanu/</link>
     </image>
     
     <item>
       <title>Fog Seeding Strategies for Information-Centric Heterogeneous Vehicular Networks</title>
-      <link>//localhost:1313/publication/turcanu2019fog/</link>
+      <link>http://localhost:1313/publication/turcanu2019fog/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2019fog/</guid>
+      <guid>http://localhost:1313/publication/turcanu2019fog/</guid>
       <description>&lt;p&gt;(to appear)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Experimental Evaluation of Floating Car Data Collection Protocols in Vehicular Networks</title>
-      <link>//localhost:1313/publication/turcanu2019experimental/</link>
+      <link>http://localhost:1313/publication/turcanu2019experimental/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2019experimental/</guid>
+      <guid>http://localhost:1313/publication/turcanu2019experimental/</guid>
       <description>&lt;p&gt;(to appear)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Traffic management and networking for autonomous vehicular highway systems</title>
-      <link>//localhost:1313/publication/rubin2019traffic/</link>
+      <link>http://localhost:1313/publication/rubin2019traffic/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/rubin2019traffic/</guid>
+      <guid>http://localhost:1313/publication/rubin2019traffic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Access Edge Computing for Vehicular Networks: A Position Paper</title>
-      <link>//localhost:1313/publication/soua2018multi/</link>
+      <link>http://localhost:1313/publication/soua2018multi/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/soua2018multi/</guid>
+      <guid>http://localhost:1313/publication/soua2018multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Evaluation of an Open-Source Audio-Video Bridging/Time-Sensitive Networking Testbed for Automotive Ethernet</title>
-      <link>//localhost:1313/publication/xu2018performance/</link>
+      <link>http://localhost:1313/publication/xu2018performance/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/xu2018performance/</guid>
+      <guid>http://localhost:1313/publication/xu2018performance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duplicate suppression for efficient floating car data collection in heterogeneous LTE-DSRC vehicular networks</title>
-      <link>//localhost:1313/publication/turcanu2018duplicate/</link>
+      <link>http://localhost:1313/publication/turcanu2018duplicate/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2018duplicate/</guid>
+      <guid>http://localhost:1313/publication/turcanu2018duplicate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Wireless Access and Networking to Support Floating Car Data Collection in Vehicular Networks</title>
-      <link>//localhost:1313/publication/turcanu2018integrated/</link>
+      <link>http://localhost:1313/publication/turcanu2018integrated/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2018integrated/</guid>
+      <guid>http://localhost:1313/publication/turcanu2018integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Model for the Optimization of Beacon Message Age-of-Information in a VANET</title>
-      <link>//localhost:1313/publication/baiocchi2017model/</link>
+      <link>http://localhost:1313/publication/baiocchi2017model/</link>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/baiocchi2017model/</guid>
+      <guid>http://localhost:1313/publication/baiocchi2017model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous cellular and DSRC networking for Floating Car Data collection in urban areas</title>
-      <link>//localhost:1313/publication/salvo2017heterogeneous/</link>
+      <link>http://localhost:1313/publication/salvo2017heterogeneous/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/salvo2017heterogeneous/</guid>
+      <guid>http://localhost:1313/publication/salvo2017heterogeneous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pick the right guy: CQI-based LTE forwarder selection in VANETs</title>
-      <link>//localhost:1313/publication/turcanu2016pick/</link>
+      <link>http://localhost:1313/publication/turcanu2016pick/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2016pick/</guid>
+      <guid>http://localhost:1313/publication/turcanu2016pick/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An integrated VANET-based data dissemination and collection protocol for complex urban scenarios</title>
-      <link>//localhost:1313/publication/turcanu2016integrated/</link>
+      <link>http://localhost:1313/publication/turcanu2016integrated/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2016integrated/</guid>
+      <guid>http://localhost:1313/publication/turcanu2016integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traffic monitoring and incident detection using cellular and early stage VANET technology deployment</title>
-      <link>//localhost:1313/publication/defelice2016traffic/</link>
+      <link>http://localhost:1313/publication/defelice2016traffic/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/defelice2016traffic/</guid>
+      <guid>http://localhost:1313/publication/defelice2016traffic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE floating car data application off-loading via VANET driven clustering formation</title>
-      <link>//localhost:1313/publication/salvo2016lte/</link>
+      <link>http://localhost:1313/publication/salvo2016lte/</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/salvo2016lte/</guid>
+      <guid>http://localhost:1313/publication/salvo2016lte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DISCOVER: A Unified Protocol for Data Dissemination and Collection in VANETs</title>
-      <link>//localhost:1313/publication/turcanu2015discover/</link>
+      <link>http://localhost:1313/publication/turcanu2015discover/</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/turcanu2015discover/</guid>
+      <guid>http://localhost:1313/publication/turcanu2015discover/</guid>
       <description></description>
     </item>
     
