@@ -9,7 +9,7 @@ categories: []
 date: 2015-11-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://f-interop.eu/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,9 +21,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: Project website
+  url: https://f-interop.eu/
 #   icon_pack: fab
 #   icon: twitter
 

@@ -18,15 +18,10 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/5g-mobix/</guid>
       <description>&lt;p&gt;5G-MOBIX will develop and test automated vehicle functionalities using 5G core technological innovations along multiple cross-border corridors and urban trial sites, under conditions of vehicular traffic, network coverage, service demand, as well as considering the inherently distinct legal, business and social local aspects.&lt;/p&gt;
-
 &lt;p&gt;The project will evaluate benefits in the CCAM context as well as define deployment scenarios and identify and respond to standardisation and spectrum gaps.&lt;/p&gt;
-
 &lt;p&gt;The expected benefit of 5G will be tested during trials on 5G corridors in different EU countries as well as China and Korea.&lt;/p&gt;
-
 &lt;p&gt;Several automated mobility use cases are potential candidates to benefit from 5G such as cooperative overtake, highway lane merging, truck platooning, valet parking, urban environment driving, road user detection, vehicle remote control, see through, HD map update, media &amp;amp; entertainment.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Project duration: 01.11.2018 - 31.10.2021
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Project duration: 01.11.2018 - 31.10.2021&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -36,13 +31,9 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/hige/</guid>
       <description>&lt;p&gt;Nowadays, cars are becoming increasingly dependent on embedded computers, sensors, cameras, Light Imaging, Detection, And Ranging (LIDAR), etc. to enable safe and comfortable journeys for drivers and passengers. Moreover, self-driving cars will hit our roads in the coming years, which will require an increasing number of advanced sensors and high resolution camera systems.&lt;/p&gt;
-
 &lt;p&gt;To integrate these features into cars and to ensure the delivery of bandwidth-hungry and delay-sensitive traffic, it is a necessity to have reliable, deterministic and bandwidth-guarantee communication protocols. Current communication technologies adopted by car manufacturers include Controller Area Network (CAN), Local Interconnect Network (LIN), Media Oriented Serial Transport (MOST), and FlexRay. The main limitation of these technologies is that, at the time of their conception, they were not tailored with the sharp rise of high-bandwidth applications.&lt;/p&gt;
-
 &lt;p&gt;To support the above mentioned requirements, in-car networks have to undergo significant changes. The inherent features of Ethernet, such as increased bandwidth, low cost and flexibility, makes it a potential candidate to substitute or complement existing in-car communication technologies. Recently, several Ethernet-based protocols have been proposed, such as Audio Video Bridging (AVB)/Time-Sensitive Networking (TSN) and Time-Triggered Ethernet (TTEthernet). It was demonstrated by several simulation studies that AVB/TSN is able to support high volumes of data while fulfilling critical timing constraints. The aim of this project is to build an in-car testbed for testing automotive Ethernet-based solutions and for carrying out realistic traffic load experiments that reflect upcoming in-car communications. To this end, selected open-source Automotive Ethernet protocols will be deployed, while different Ethernet-based topologies will be investigated and evaluated.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Project duration: 01.05.2018 - 30.04.2019
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Project duration: 01.05.2018 - 30.04.2019&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -52,11 +43,8 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/fcd4its/</guid>
       <description>&lt;p&gt;The FCD4ITS (Floating Car Data Collection for Intelligent Transportation Systems) project will deploy and execute a set of experiments using the RAWFIE vehicular testbeds to evaluate the performance of our own (and other state-of-the-art) Floating Car Data collection algorithms, in order to understand their properties in real-world settings.&lt;/p&gt;
-
 &lt;p&gt;We will deploy automated large-scale real-world procedures using Unmanned Ground Vehicles (UGVs) provided by the RAWFIE testbeds to evaluate the performance and applicability of our novel algorithms and compare them to the state of the art. RAWFIE testbeds will allow validation of the solutions in real-world settings, building on our existing simulation-based evaluations. We will also give feedback to RAWFIE on facilitating the automated execution of such experiments. Our work will help the research community to understand the limitations of simulations in targeted scenarios and adapt them to better reflect the real world. Our solid experience in fundamental and applied vehicular research will allow us to successfully complete these tasks.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Project duration: 01.03.2018 - 31.12.2018
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Project duration: 01.03.2018 - 31.12.2018&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -66,13 +54,9 @@
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/contact/</guid>
       <description>&lt;p&gt;Vehicular Ad hoc Networks (VANETs) have been receiving a lot of interest from academia, automotive industry, and government, as they hold the potential to enable a wide range of applications and services, improving both safety and comfort on the road.&lt;/p&gt;
-
 &lt;p&gt;One of the main drivers of vehicular communications is the support for safety applications (e.g. accident, traffic jam notifications), which together with the more recent autonomous and coordinated driving applications require low end-to-end delay and no packet loss. These applications will share the vehicular network resources with services with very different QoS requirements, such as infotainment services (e.g. live video streams, tourist information).&lt;/p&gt;
-
 &lt;p&gt;Due to the volatility of the vehicular environment, VANETs are characterized by a dynamic topology, short-lived intermittent wireless connectivity, and a cooperative and decentralized communication paradigm. All these features make the provision of high levels of QoS in VANETs a challenging task. Even more challenging is the support of a very diverse set of QoS requirements, due to the high heterogeneity of existing and prospective vehicular applications. The main existing approaches to QoS provisioning in VANETs either tackle this issue by focusing on a single layer of the network architecture, or focus on enabling a single specific QoS class of service. The CONTACT project aims at enabling Quality of Service (QoS) support in VANETs by taking a multi-pronged, cross-layer approach, by developing a set of communication techniques, which efficiently adapt, at the same time to the highly volatile and unstable vehicular environment, to content attributes and properties, and to application performance requirements. For this purpose, CONTACT will investigate the use of three different emerging approaches: Content-Centric Networking (CCN), Software Defined Networking (SDN), and Floating Content (FC). CCN implies introducing (content) name-based addressing instead of host-based addressing. This can be  beneficial for communications in highly mobile network scenarios such as vehicular networks, where host addresses are not very meaningful.  SDN, with its centralized view of network resources, may help in handling efficiently dynamic (re)allocation of resources/channels, and distribution of content (e.g., by reducing amount of Geobroadcast messages). Finally, FC techniques could be used to improve content availability for delay tolerant communications. The main idea behind CONTACT is to combine and exploit the advantages offered by CCN, SDN and FC, to offer a variety of QoS levels. The improvements in communication reliability, content availability, and end-to-end delay are pursued by adopting strategies based on the type of content (alerts, driving coordination, informational) as well as on its context attributes (such as location of origin, geographical range of interest, time of validity).&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Project duration: 01.04.2016 - 31.03.2020
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Project duration: 01.04.2016 - 31.03.2020&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -82,11 +66,8 @@
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/finterop/</guid>
       <description>&lt;p&gt;F-Interop will develop and provide remotely accessible tools to support and accelerate standardization processes and products developments, by offsetting several cost and time barriers. It will research and develop a new FIRE experimental platform to support the development of new technologies and standards, from their genesis to the market for: online interoperability tests and validation tools, remote compliance and conformance tests, scalability tests, Quality of Service (QoS) tests, SDN/NFV interoperability tools, Online privacy test tools, energy efficiency tools.&lt;/p&gt;
-
 &lt;p&gt;F-Interop gathers standardization partners together with 3 FIRE federations (Fed4FIRE, IoT Lab, OneLab) to build a common experimental platform as a service. Following an end-user driven methodology, it will directly address the needs of 3 emerging standards: oneM2M led by ETSI, 6TiSCH (IETF) chaired by our Inria partner, Web of Things WG (start Feb 2015) led by W3C, our advisory board member. The open call will extend the platform to other standardization activities, as well as to additional tools extensions and SME products validations. F-Interop will: - Provide online interoperability tools enabling research and development teams to test their products development and implementations at any time, without having to wait until the next face-to-face interop meeting. - Provide an online platform for standards compliance and labelling to be used by the IPv6 Forum Ready Logo Program and other similar labelling bodies, including ETSI, IETF and W3C. - Enable SME to accelerate interoperability and the development of their products and services. - Extend FIRE testbeds and bring them closer to the market. To achieve this ambitious objective, F.-Interop gathers a formidable combination of leading industry experts form standardization bodies, research centres, FIRE testbeds and SMEs from Europe and Japan. The F-Interop Ecosystem will enable sustainable impact, commercial uptake and synergies at EU level.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Project duration: 01.11.2015 - 30.09.2018
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Project duration: 01.11.2015 - 30.09.2018&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

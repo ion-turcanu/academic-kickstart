@@ -15,7 +15,9 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: SECAN-Lab
-  url: "https://secan-lab.uni.lu/"
+  url: "https://secan-lab.uni.lu/ion-turcanu"
+- name: SnT
+  url: "https://wwwen.uni.lu/snt/people/ion_turcanu"
 - name: University of Luxembourg
   url: "https://wwwen.uni.lu/"
 
