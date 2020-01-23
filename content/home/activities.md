@@ -75,7 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
-**Technical Programme Committee** 
+**Technical Programme Committee**
+
 - [**ANT 2020**](http://cs-conferences.acadiau.ca/ant-20/) (The 11th International Conference on Ambient Systems, Networks and Technologies), April 6-9, 2020, Warsaw, Poland.
 - [**IEEE CCNC 2020**](https://ccnc2020.ieee-ccnc.org/) (IEEE Consumer Communications & Networking Conference), January 10-13, 2020, Las Vegas, USA.
 - [**VEHICULAR 2019**](https://www.iaria.org/conferences2019/VEHICULAR19.html) (The 8th International Conference on Advances in Vehicular Systems, Technologies and Applications), June 30 - July 04, 2019, Rome, Italy.
