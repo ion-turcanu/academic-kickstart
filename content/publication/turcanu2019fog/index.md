@@ -4,7 +4,7 @@
 title: "Fog Seeding Strategies for Information-Centric Heterogeneous Vehicular Networks"
 authors: [Ion Turcanu, Thomas Engel, Christoph Sommer]
 date: 2019-12-04
-doi: ""
+doi: "10.1109/VNC48660.2019.9062816"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-11-07T17:44:37+01:00
